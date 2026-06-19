@@ -1,0 +1,4 @@
+numpy
+pandas
+rasterio
+# calibration_figure_of_merit.py additionally requires arcpy (ArcGIS Pro), which is not pip-installable
